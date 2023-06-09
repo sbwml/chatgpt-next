@@ -1,1 +1,1 @@
-# chatgpt-next prebuilt
+# chatgpt-next openwrt prebuilt
