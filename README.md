@@ -1,1 +1,1 @@
-# chatgpt-next
+# chatgpt-next prebuilt
